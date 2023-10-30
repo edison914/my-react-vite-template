@@ -1,8 +1,8 @@
-#My React Vite Template
+# My React Vite Template
 
-##This is blank template created for start cloning a React Vite Project
+## This is blank template created for start cloning a React Vite Project
 
-###How to Clone
+### How to Clone
 
 Run the following commands to create a clone of the repo's main branch under the name in the directory where it is run:
 ```sh
@@ -11,7 +11,7 @@ npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>
 edison914 as user name for my own use.
 
 
-###Dependency to Install
+### Dependency to Install
 
 After cloning, inside the **my-react-vite-template** folder, run the following commands in terminal to install dependencies and start the app the dev mode.
 ```sh
@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-###files to change
+### files to change
 1. Update **README.md** to reflect
 
     The purpose of the code / repo.
