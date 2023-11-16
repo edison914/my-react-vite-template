@@ -6,7 +6,7 @@
 
 Run the following commands to create a clone of the repo's main branch under the name in the directory where it is run:
 ```sh
-npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>
+npx tiged edison914/my-react-vite-template#main <new-project-name>
 ```
 edison914 as user name for my own use.
 
@@ -16,6 +16,10 @@ edison914 as user name for my own use.
 After cloning, inside the **my-react-vite-template** folder, run the following commands in terminal to install dependencies and start the app the dev mode.
 ```sh
 npm install
+```
+
+```sh
+npm install react-router-dom
 ```
 
 ```sh
